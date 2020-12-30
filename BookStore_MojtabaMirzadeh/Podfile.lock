@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - Kingfisher (4.10.1)
+  - NVActivityIndicatorView (4.4.1):
+    - NVActivityIndicatorView/Presenter (= 4.4.1)
+  - NVActivityIndicatorView/Presenter (4.4.1)
+  - ObjectMapper (3.5.3)
+  - Realm (10.5.0):
+    - Realm/Headers (= 10.5.0)
+  - Realm/Headers (10.5.0)
+  - RealmSwift (10.5.0):
+    - Realm (= 10.5.0)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 6.2)
+  - Kingfisher (~> 4.10.1)
+  - NVActivityIndicatorView (~> 4.4.1)
+  - RealmSwift
+  - Toast-Swift (~> 4.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Kingfisher
+    - NVActivityIndicatorView
+    - Toast-Swift
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  NVActivityIndicatorView: f0a6b0ed2973d9544da268f4eb76696f0a9577b0
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  Realm: e1c22c3d83b229afb70ebc10e1771c91e9542d12
+  RealmSwift: 6fc078d9d3fd7e58c71bfdbb694e252462f112a5
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 345bb7e9fa673de84ab5de43609f9294dcc257c4
+
+COCOAPODS: 1.10.0
